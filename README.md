@@ -6,9 +6,9 @@
 <h3 align="center">Fullstack Developer from the Philippines</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=spadefaith&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jomerventolero&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=spadefaith" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jomerventolero" alt="GitHub Trophies" />
   </a>
 </p>
 
