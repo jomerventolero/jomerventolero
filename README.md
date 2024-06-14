@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there 👋, I'm Jomer Augustin Ventolero</h1>
 <h3 align="center">Fullstack Developer from the Philippines</h3>
-<img src="https://komarev.com/ghpvc/?username=jomerventolero&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img align="center" src="https://komarev.com/ghpvc/?username=jomerventolero&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 <p align="center">
   
   <a href="https://github.com/ryo-ma/github-profile-trophy">
