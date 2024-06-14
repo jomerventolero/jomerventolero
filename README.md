@@ -59,6 +59,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/> 
   </a>
   <a href="https://djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://logodix.com/logo/1758841.png" alt="SCSS" width="40" height="40"/> 
+    <img src="https://logodix.com/logo/1758841.png" alt="Django" width="40" height="40"/> 
+  </a>
+  <a href="https://appwrite.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://appwrite.io/images/logos/appwrite.svg" alt="Appwrite" width="40" height="40"/> 
+  </a>
+  <a href="https://appwrite.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://mms.businesswire.com/media/20220622005234/en/792790/23/Logo.WhiteBackground.jpg" alt="Strapi" width="80" height="40"/> 
   </a>
 </p>
