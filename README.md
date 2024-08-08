@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
   </a> 
   <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://i0.wp.com/jaredrhodes.com/wp-content/uploads/2021/04/573-5731000_proxmox-proxmox-logo-hd-png-download.png?fit=860%2C712&ssl=1" alt="Proxmox" width="40" height="40"/> 
+    <img src="https://play-lh.googleusercontent.com/sIndrPMQB67N1D8Kgem3Ornny9hSIy9CLnkmk1oGEP15BET341aItT8OfOFh88n0iw=w3840-h2160-rw" alt="Proxmox" width="40" height="40"/> 
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/> 
