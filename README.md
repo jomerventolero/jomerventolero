@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- Add your social media links here -->
-  [Portfolio](http://jomerventolero.vercel.app)
+  [Portfolio](http://jomerventolero.site)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
