@@ -66,4 +66,8 @@
   <a href="https://appwrite.io/" target="_blank" rel="noreferrer"> 
     <img src="https://mms.businesswire.com/media/20220622005234/en/792790/23/Logo.WhiteBackground.jpg" alt="Strapi" width="80" height="40"/> 
   </a>
+  <a href="https://appwrite.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://codingcompiler.com/wp-content/uploads/2018/07/mongodb-tutorial.png" alt="MongoDB" width="80" height="40"/> 
+  </a>
+  
 </p>
