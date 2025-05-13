@@ -17,6 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How Docker Revolutionized the Tech Industry](https://dev.to/augustin_ven/how-docker-revolutionized-the-tech-industry-77i)
+- [Ngrok on Ubuntu under Windows Subsystem for Linux &lpar;WSL&rpar;](https://dev.to/augustin_ven/ngrok-on-ubuntu-under-windows-subsystem-for-linux-wsl-3cd3)
+- [Writing Clean Python Code: Embracing the Zen of Python 🐍✨](https://dev.to/augustin_ven/writing-clean-python-code-embracing-the-zen-of-python-39cc)
+- [Enhancing Large Language Models with Vectorized Databases: Powering AI at Scale](https://dev.to/augustin_ven/enhancing-large-language-models-with-vectorized-databases-powering-ai-at-scale-3bki)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
