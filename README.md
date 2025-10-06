@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Seamless Authentication in Next.js: A Step-by-Step NextAuth.js Tutorial &lpar;TypeScript&rpar;](https://dev.to/augustin_ven/seamless-authentication-in-nextjs-a-step-by-step-nextauthjs-tutorial-typescript-1dil)
-- [How Docker Revolutionized the Tech Industry](https://dev.to/augustin_ven/how-docker-revolutionized-the-tech-industry-77i)
-- [Ngrok on Ubuntu under Windows Subsystem for Linux &lpar;WSL&rpar;](https://dev.to/augustin_ven/ngrok-on-ubuntu-under-windows-subsystem-for-linux-wsl-3cd3)
-- [Writing Clean Python Code: Embracing the Zen of Python 🐍✨](https://dev.to/augustin_ven/writing-clean-python-code-embracing-the-zen-of-python-39cc)
+- [Optimizing React Performance: useMemo, useCallback, and Beyond](https://dev.to/augustin_ven/optimizing-react-performance-usememo-usecallback-and-beyond-nnl)
+- [Improving Developer Experience with ESLint + Prettier](https://dev.to/augustin_ven/improving-developer-experience-with-eslint-prettier-2ebm)
+- [🔐 How to Set Up SSH Access for a Private GitLab Repository](https://dev.to/augustin_ven/how-to-set-up-ssh-access-for-a-private-gitlab-repository-4n4l)
+- [🚀 How to Install Node.js &lpar;or a Specific Version&rpar; on Windows, macOS, and Linux](https://dev.to/augustin_ven/how-to-install-nodejs-or-a-specific-version-on-windows-macos-and-linux-18fe)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
