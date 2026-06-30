@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building NetZero: Automated Zero-Trust K8s Network Policies Using Go and eBPF](https://dev.to/augustin_ven/building-netzero-automated-zero-trust-k8s-network-policies-using-go-and-ebpf-1epi)
 - [Optimizing React Performance: useMemo, useCallback, and Beyond](https://dev.to/augustin_ven/optimizing-react-performance-usememo-usecallback-and-beyond-nnl)
 - [Improving Developer Experience with ESLint + Prettier](https://dev.to/augustin_ven/improving-developer-experience-with-eslint-prettier-2ebm)
 - [🔐 How to Set Up SSH Access for a Private GitLab Repository](https://dev.to/augustin_ven/how-to-set-up-ssh-access-for-a-private-gitlab-repository-4n4l)
-- [🚀 How to Install Node.js &lpar;or a Specific Version&rpar; on Windows, macOS, and Linux](https://dev.to/augustin_ven/how-to-install-nodejs-or-a-specific-version-on-windows-macos-and-linux-18fe)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
